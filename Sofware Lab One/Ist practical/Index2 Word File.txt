@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introduction</title>
+</head>
+
+<body style="background-color: aquamarine;">
+
+    <h1>Self Introduction about Myself.</h1>
+    <div style="background-color: bisque; padding: 25px;">
+        <p>My Name is
+            <span style="font-size: 22px;font-weight: 800;">Rupam Dey.</span> <br>
+            I am 22 years old.
+            <br>I am from Milanpur, Katol,Maharashtra.
+            <br> Currently, I am Pursuing my Bachelor of Technology at Priyadarshini JL College of
+            Enginnering
+            with a
+            computer science stream. <br>
+            I have completed my schooling from Dhanbad, in Dayanand Public School. <br>
+            Coming
+            to
+            technical skills I have good knowledge of programming languages like - C, C++, Java, HTML, CSS, and MySQL,
+            and
+            also work on MS Office tools like - Word, Excel, PowerPoint, etc.
+            <br> I am self-motivated and a good team
+            player and my hobbies are listening to music and playing badminton. <br>My short-term goal is to get placed
+            in
+            a reputed company where I can improve my skills and learn new things. <br>When I talk about my family there
+            are four members in my family.
+            <br> My father is a farmer and my mother is a homemaker.
+            This is all about me. <br><br> <span style="font-size: 20px;font-weight: 800;">Thanks</span>.
+        </p>
+    </div>
+</body>
+
+</html>

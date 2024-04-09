@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dekho Apna Desh</title>
+    <link rel="stylesheet" href="">
+    <style>
+        a {
+            color: #957B6B;
+        }
+    </style>
+</head>
+
+<body>
+    <div style=" padding: 25px;
+    padding-top: 25px;
+    border: 5px solid black;">
+        <div style="display: flex;">
+            <span>
+                <img style="background-color: gray;" height="666" width="662" src="g007b.png" usemap="#workmap"
+                    alt="APJ">
+                <map name="workmap">
+                    <area shape="rect" coords="50,295,  138,331" alt="Mahatma-Gandhi"
+                        href="https://www.britannica.com/biography/Mahatma-Gandhi" target="_blank">
+
+                    <area shape="rect" coords="" alt="Jawaharlal Nehru" href="" target="_blank">
+
+                    <area shape="rect" coords="170,125, 204,166" alt="Bhagat Singh"
+                        href="https://www.britannica.com/biography/Bhagat-Singh" target="_blank">
+
+                    <area shape="rect" coords="430,304 ,466,352" alt="Netaji Subhas Chandra Bose"
+                        href="https://www.britannica.com/biography/Subhas-Chandra-Bose" target="_blank">
+
+                    <area shape="rect" coords="375,245, 420,289" alt="Rajendra Prasad"
+                        href="https://www.britannica.com/biography/Rajendra-Prasad" target="_blank">
+
+                    <area shape="rect" coords="" alt="" href="" target="_blank">
+
+                    <area shape="rect" coords="153,365 ,204,446" alt="Bal Gangadhar Tilak"
+                        href="https://www.britannica.com/biography/Bal-Gangadhar-Tilak" target="_blank">
+
+                    <area shape="rect" coords="270,202, 342,273" alt="Mangal Pandey"
+                        href="https://www.britannica.com/biography/Mangal-Pandey" target="_blank">
+
+                    <area shape="rect" coords="209,282, 290,350" alt="Chandrashekhar Azad"
+                        href="https://www.britannica.com/biography/Chandrasekhar-Azad" target="_blank">
+
+                    <area shape="rect" coords="126,195, 197,281" alt="Kunwar Pratap Singh Barhath"
+                        href="https://en.wikipedia.org/wiki/Kunwar_Pratap_Singh_Barhath" target="_blank">
+
+                    <area shape="rect" coords="180,27, 240,95" alt="Brigadier Rajinder Singh"
+                        href="https://en.wikipedia.org/wiki/Rajinder_Singh_(brigadier)" target="_blank">
+
+                    <area shape="rect" coords="" alt="" href="" target="_blank">
+
+                    <area shape="rect" coords="" alt="" href="" target="_blank">
+
+                    <area shape="rect" coords="" alt="" href="" target="_blank">
+
+                </map>
+
+            </span>
+            <span style="padding-left:50px;">
+                <h1 style="color: #2B1D0A;font-size: 40px;">India, Dekho Apna Desh</h1>
+                <p style="color: #65533B; font-size: 20px;">India, officially known as the Republic of India, is a
+                    country located in
+                    South Asia. It is the
+                    seventh-largest country by land area and the second-most populous country in the world, with over
+                    1.3 billion people. India is known for its rich cultural heritage, diverse geography, and
+                    significant contributions to various fields such as science, technology, literature, and art.</p>
+                <ul style="color: #957B6B; font-size: 17px;">
+                    <li>Capital: New Delhi</li>
+                    <li>Largest City: Mumbai (formerly Bombay)</li>
+                    <li>Languages: Hindi and English are the official languages, with 22 officially recognized
+                        languages.</li>
+                    <li>Population: Second-most populous country in the world, with over 1.3 billion people.</li>
+                    <li>Economy: Mixed economy with significant contributions from agriculture, manufacturing, and
+                        services sectors.</li>
+                    <li>Culture: Diverse cultural heritage, home to various religions, traditions, and cuisines.</li>
+                    <li>History: Rich history dating back thousands of years, with ancient civilizations and various
+                        empires.</li>
+                    <li>Independence: Gained independence from British rule on August 15, 1947.</li>
+                    <li>Demographics: Incredibly diverse population, with various ethnic groups, languages, and
+                        religions.</li>
+                    <li>Technology: Emerging as a global hub for technology and innovation, particularly in the IT
+                        sector.</li>
+                </ul>
+            </span>
+        </div>
+        <div>
+            <span>
+                <p style="font-size: 30px; color: #432916;"><b>Greatest Freedom Fighters of India and Their
+                        Contributions</b></p>
+                <ol style="color: #65533B;">
+
+                    <li><b>Mahatma Gandhi: </b>
+
+                        Advocated for nonviolent resistance and civil disobedience against British rule.
+                        Led various campaigns such as the Salt March and Quit India Movement.
+                        Played a pivotal role in India's independence movement and inspired movements for civil rights
+                        and freedom across the world.<a href="https://www.britannica.com/biography/Mahatma-Gandhi"
+                            target="_blank" style="font-size: 14px;"> Click For More
+                            Information...</a></li><br>
+
+                    <li> <b>Jawaharlal Nehru:</b>
+
+                        First Prime Minister of independent India.
+                        Played a key role in the Indian National Congress and the struggle for independence.
+                        Known for his advocacy of democracy, secularism, and social justice.<a
+                            href="https://www.britannica.com/biography/Jawaharlal-Nehru" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a></li> <br>
+
+                    <li> <b>Bhagat Singh:</b>
+
+                        Fought against British rule through revolutionary activities.
+                        Involved in the Hindustan Socialist Republican Association (HSRA).
+                        Known for his commitment to socialism and sacrifice for the nation.<a
+                            href="https://www.britannica.com/biography/Bhagat-Singh" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a></li> <br>
+
+                    <li> <b>Netaji Subhas Chandra Bose:</b>
+
+                        Formed the Indian National Army (INA) to fight against British colonial rule.
+                        Sought support from Axis powers during World War II to liberate India.
+                        His rallying cry "Give me blood, and I shall give you freedom" inspired many.<a
+                            href="https://www.britannica.com/biography/Subhas-Chandra-Bose" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a></li> <br>
+
+                    <li> <b>Rajendra Prasad:</b>
+
+                        Rajendra Prasad (born December 3, 1884, Zeradei, India—died February 28, 1963, Patna) Indian
+                        politician, lawyer, and journalist who was the first president of the Republic of India
+                        (1950–62). He also was a comrade of Mahatma Gandhi early in the noncooperation movement for
+                        independence and was president of the Indian National Congress (1934, 1939, and 1947).<a
+                            href="https://www.britannica.com/biography/Rajendra-Prasad" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a>
+                    </li><br>
+
+                    <li> <b>Bal Gangadhar Tilak:</b>
+
+                        Bal Gangadhar Tilak, (born July 23, 1856, Ratnagiri [now in Maharashtra state], India—died
+                        August 1, 1920, Bombay [now Mumbai]), scholar, mathematician, philosopher, and ardent
+                        nationalist who helped lay the foundation for India’s independence by building his own defiance
+                        of British rule into a national movement.<a
+                            href="https://www.britannica.com/biography/Bal-Gangadhar-Tilak" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a></li><br>
+
+                    <li> <b>Mangal Pandey:</b>
+
+                        A soldier in the British East India Company's army who sparked the First War of Indian
+                        Independence (1857) by rebelling against the use of cartridges greased with animal fat, which
+                        offended religious sentiments.<a href="https://www.britannica.com/biography/Mangal-Pandey"
+                            target="_blank" style="font-size: 14px;"> Click For
+                            More
+                            Information...</a></li><br>
+
+                    <li> <b>Chandrashekhar Azad:</b>
+
+                        Prominent revolutionary who participated in the Kakori Train Robbery and other acts of
+                        resistance against British rule.
+                        Known for his commitment to the cause of Indian independence and his refusal to surrender to the
+                        British.<a href="https://www.britannica.com/biography/Chandrasekhar-Azad" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a></li><br>
+
+                    <li> <b>Pratap Singh Barhath:</b>
+
+                        Kunwar Pratap Singh Barhath (25 May 1893 – 7 May 1918), also known as ‘Kunwar Ji’, was an Indian
+                        anti-British activist known for his role in the revolutionary plot to assassinate the Viceroy of
+                        India, Charles Hardinge, in 1912. He was a prominent member of the Revolutionary
+                        Party[clarification needed] led by Rash Behari Bose..<a
+                            href="https://en.wikipedia.org/wiki/Kunwar_Pratap_Singh_Barhath" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a></li><br>
+
+                    <li> <b>Brigadier Rajinder Singh :</b>
+
+                        Brigadier Rajinder Singh Jamwal, MVC (14 June 1899 – 26/27 October 1947), also remembered as the
+                        Saviour of Kashmir, was an officer in the Jammu and Kashmir State Forces. He briefly served as
+                        the Chief of Staff of State Forces and died fighting during the First Kashmir War. Rajinder
+                        Singh and his small contingent of about 200 men successfully delayed the advance of a much
+                        larger force of Pakistani tribal raiders near Uri for several days, during which the Maharaja of
+                        Kashmir acceded to India and the Indian forces air-lifted for the defence of Kashmir.<a
+                            href="https://en.wikipedia.org/wiki/Rajinder_Singh_(brigadier)" target="_blank"
+                            style="font-size: 14px;"> Click For More
+                            Information...</a>
+                    </li><br>
+                </ol>
+            </span>
+        </div>
+    </div>
+</body>
+
+</html>
